@@ -1,0 +1,6 @@
+apiVersion: v2
+name: enterprise-bot
+description: Helm chart for Enterprise Bot application
+type: application
+version: 0.1.0
+appVersion: "1.0"
