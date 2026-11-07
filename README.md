@@ -22,7 +22,6 @@ A containerized Python Flask service deployed to Kubernetes with Helm, automated
 - [Design decisions](#design-decisions)
 - [What was deliberately kept out of scope](#what-was-deliberately-kept-out-of-scope)
 - [Production-readiness improvements](#production-readiness-improvements)
-- [How I used AI](#how-i-used-ai)
 
 ---
 
