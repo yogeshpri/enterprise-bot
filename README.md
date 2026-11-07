@@ -18,7 +18,7 @@ A containerized Python Flask service deployed to Kubernetes with Helm, automated
 - [One-command setup](#one-command-setup)
 - [Verification and troubleshooting commands](#verification-and-troubleshooting-commands)
 - [Helm configuration and resource sizing](#helm-configuration-and-resource-sizing)
-- [Part 4 — Kubernetes debugging lab](#part-4--kubernetes-debugging-lab)
+- [Kubernetes debugging lab](#part-4--kubernetes-debugging-lab)
 - [Design decisions](#design-decisions)
 - [What was deliberately kept out of scope](#what-was-deliberately-kept-out-of-scope)
 - [Production-readiness improvements](#production-readiness-improvements)
